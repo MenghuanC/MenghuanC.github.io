@@ -1,0 +1,22 @@
+{
+    "Login":"mc.wcpe.top;45929",
+    "NewVersion":1,
+    "NewVersionDownloadUrl":{
+        "1.0":"wc",
+        "2.0":"wc",
+        "3.0":"wc"
+    },
+    "Notice":"https://wcpe.github.io/",
+    "Register":"mc.wcpe.top;45939",
+    "Motd":"mc.wcpe.top;25565",
+    "QQGroup":"https://jq.qq.com/?_wv=1027&k=5pxo8Lp",
+    "Voucher":"[图片]https://pr.kuaifaka.com/item/k8amd2",
+    "QQ":"http://wpa.qq.com/msgrd?v=3&uin=951471245&site=qq&menu=yes",
+    "ServerList":[
+        "明日之城;mc.wcpe.top;25565",
+        "暂无;127.0.0.1;25565"
+    ],
+    "image1":"https://s2.ax1x.com/2020/02/14/1jou9K.jpg",
+    "image2":"https://s2.ax1x.com/2020/02/14/1joMcD.jpg",
+    "image3":"https://s2.ax1x.com/2020/02/14/1joetx.md.jpg"
+}
