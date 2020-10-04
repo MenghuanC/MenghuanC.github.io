@@ -1,5 +1,5 @@
 {
-    "Login":"127.0.0.1;25565",
+    "Login":"43.241.50.196;45929",
     "NewVersion":1,
     "NewVersionDownloadUrl":{
         "1.0":"wc",
@@ -7,7 +7,7 @@
         "3.0":"wc"
     },
     "Notice":"https://wcpe.github.io/",
-    "Register":"127.0.0.1;25565",
+    "Register":"43.241.50.196;45929",
     "Motd":"127.0.0.1;25565",
     "QQGroup":"https://jq.qq.com/?_wv=1027&k=5pxo8Lp",
     "Voucher":"[图片]https://pr.kuaifaka.com/item/k8amd2",
